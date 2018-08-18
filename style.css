@@ -1,0 +1,3 @@
+.table-div{display:table}
+.tr-div{display:table-row}
+.td-div{display:table-cell;border:1px solid silver;padding:2px}

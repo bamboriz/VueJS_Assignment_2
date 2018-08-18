@@ -1,0 +1,1 @@
+In the component Vue file from the Assignment 1, take in the prop data and display it nicely. Use sass or at least css to make a simple modern design to display the name. In the app file, it should display these components in a table without using the table html tags
